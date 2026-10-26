@@ -1,0 +1,9 @@
+{
+  "name": "siyuan-note-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cross-platform SiYuan Kernel API skill and CLI",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test tests/*.test.mjs" }
+}
